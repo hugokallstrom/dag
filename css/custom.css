@@ -1,0 +1,20 @@
+html,body {
+	height:95%;
+}
+
+body {
+	background: #3E4649;
+	color: #f7f7f7;
+	font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+	font-weight: bold;
+	text-align: center;
+	font-size: 15em;
+	position: relative;
+  	top: 50%;
+  	-webkit-transform: translateY(-50%);
+  	-ms-transform: translateY(-50%);
+  	transform: translateY(-50%);
+}
